@@ -1,0 +1,17 @@
+{
+  "name": "6bet-bot",
+  "version": "1.0.0",
+  "description": "6BET.JS အော်တိုဘက်ဘော့",
+  "main": "6BET.JS",
+  "scripts": {
+    "start": "node 6BET.JS"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0",
+    "https": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "timers": "^0.1.1"
+  }
+}
